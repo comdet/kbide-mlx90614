@@ -1,0 +1,15 @@
+{
+  "name": "MLX90614",
+  "title" : "Temperature Sensor MLX90614",
+  "keywords": "gy906, gy-906, MLX90614, temperature, sensor",
+  "description": "KBIDE Library for MLX90614  (aka GY-906).",
+  "category":"Sensors",
+  "license": "MIT",
+  "git": "https://github.com/comdet/kbide-mlx90614/",
+  "author": "Adafruit | blocks by Comdet",
+  "email": "info@adafruit.com",
+  "url": "https://github.com/adafruit/Adafruit-MLX90614-Library",
+  "version": "1.0.1",
+  "platform": ["arduino-esp32","arduino-avr"],
+  "image" : "/static/display.jpg"
+}
